@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "About_Me.html",
+    "href": "About_Me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Naomi Yamaguchi, and I am currently a first-year graduate student in the Data Science and Analytics (DSAN) Master’s program at Georgetown University.\n\n\n\nThis is me\n\n\nI grew up in Maryland and studied undergraduate at Salisbury University where I majored with a B.S in Statistics and minored with Data Science. During my undergraduate, I was selected to be part of research project with computer science department and gained real world skills from several internships. After graduation, I spent my summer as a revenue management analyst intern at Georgetown before returning to school to join the world of data science.\nOutside of school and work, my hobbies include adventure, workout, playing with my dogs, window shopping, attending concert/festival, and exploring the DC with my friends. Thanks for checking out my portfolio!\n GU netID: ny159 \n LinkedIn: Click here for my LinkedIn"
+  },
+  {
+    "objectID": "Decision_Tree.html#regression",
+    "href": "Decision_Tree.html#regression",
+    "title": "Decision Trees",
+    "section": "Regression",
+    "text": "Regression"
+  },
+  {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Why do we always hear people compare the United States and other countries health care system? Health insurance in the United States is always a problem governments and communities face. Compared to other countries, the U.S. does not have the flexibility and accessibility of the health care system for all citizens. Many Americans are paying out-of-pocket to access into medical system and some have no access. President Obama took this community challenge seriously and passed two laws to make a change in the healthcare system.\nThe Affordable Care Act (ACA) is the name for the comprehensive health care reform law and its amendments which addresses health insurance coverage, health care costs, and preventive care, also known as Obama care. Two laws significantly affect American health insurance: The Patient Protection and Affordable Care Act. Both laws are passed by President Barack Obama on March 23, 2010, and were amended by the Health Care and Education Reconciliation Act on March 30, 2010.\n\n\n\nACA\n\n\nThe ACA didn’t achieve its intended results as effectively as anticipated. As outlined by the American Action Forum, the ACA led to a direct hike in expenses for drug producers by introducing a new tax tied to the revenue from a company’s branded drug sales. While the overall prescription drug prices saw a reduction, the prices of branded prescription drugs experienced a rise. Between 2011 and 2015, this specific tax cost the pharmaceutical sector $14.1 billion. Additionally, the ACA extended Medicaid coverage to approximately 13 million Americans, mandated health insurance, and introduced new taxes on higher-income households to finance healthcare expenses, subsequently raising yearly premiums and out-of-pocket costs for numerous households."
+  },
+  {
+    "objectID": "Introduction.html#aca-health-insurance-coverage-change",
+    "href": "Introduction.html#aca-health-insurance-coverage-change",
+    "title": "Introduction",
+    "section": "",
+    "text": "Health insurance in the United States is always a problem governments and communities face. Compared to other countries, the U.S. does not have the flexibility and accessibility of the health care system for all citizens. President Obama took this community challenge seriously and passed two laws to make a change in the healthcare system.\nThe Affordable Care Act (ACA) is the name for the comprehensive health care reform law and its amendments which addresses health insurance coverage, health care costs, and preventive care, also known as Obama care. Two laws significantly affect American health insurance: The Patient Protection and Affordable Care Act. Both laws are passed by President Barack Obama on March 23, 2010, and were amended by the Health Care and Education Reconciliation Act on March 30, 2010.\n\n\n\nACA\n\n\nIn this project, I used data gathering, data cleaning, clustering, dimensionality reduction, decision trees include classification and regression, and ARM to focus background of Obama care and Medicaid health insurance changes.\nYou MUST find TWO academic publications, relevant to your topic, and summarize (and cite) them in your introduction tab.\nThis section should include paragraphs that summarize the topic, why it is important, why the reader should continue, what work has been done in the past by other research groups, what are the “different points of views”/interpretations in the literature, what are you exploring, what questions are you trying to address, what are your goals and hypothesis, etc"
+  },
+  {
+    "objectID": "Introduction.html#research-the-articles-related-to-aca-here",
+    "href": "Introduction.html#research-the-articles-related-to-aca-here",
+    "title": "Introduction",
+    "section": "Research the articles related to ACA here",
+    "text": "Research the articles related to ACA here\nTo explore the effect and impact by ACA across the nation, the following questions will be answered in this research. Each question will be addressed and answered with the backing of data throughout the project and in the conclusion with examples."
+  },
+  {
+    "objectID": "Introduction.html#questions-to-explore",
+    "href": "Introduction.html#questions-to-explore",
+    "title": "Introduction",
+    "section": "Questions to Explore",
+    "text": "Questions to Explore\n\n1. How did the ACA impact the pricing and accessibilities of prescription drugs in the United States?\n\n\n2. Have there been any significant changes related to drug pricing and the pharmaceutical industry since the ACA was passed?\n\n\n3. Has the pharmaceutical industry shown increasing profits since the ACA was established?\n\n\n4. Are there certain times of the year in which Americans may experience heightened drug costs?\n\n\n5. Does changes in pharmaceutical industry by ACA effect the death rate in the United States?\n\n\n6. What kind of connection can be drawns between the increased profitability of the U.S. pharmaceutical industry and rising out-of-pocket prescription drug costs for consumers?\n\n\n7. Can we predict the future prescription drug cost and out-of-pocket?\n\n\n8. Did the ACA successfull strike a balance between expanding healcare coverage and addressing concerns about rising drug costs?\n\n\n9. How does the ACA become controversial topic?\n\n\n10. What lessons can be learned from the ACA’s interaction with the pharmaceutical industry for future healthcare policy initiatives?"
+  },
+  {
+    "objectID": "Introduction.html#aca-health-insurance-and-pharmaceutical-industry",
+    "href": "Introduction.html#aca-health-insurance-and-pharmaceutical-industry",
+    "title": "Introduction",
+    "section": "",
+    "text": "Why do we always hear people compare the United States and other countries health care system? Health insurance in the United States is always a problem governments and communities face. Compared to other countries, the U.S. does not have the flexibility and accessibility of the health care system for all citizens. Many Americans are paying out-of-pocket to access into medical system and some have no access. President Obama took this community challenge seriously and passed two laws to make a change in the healthcare system.\nThe Affordable Care Act (ACA) is the name for the comprehensive health care reform law and its amendments which addresses health insurance coverage, health care costs, and preventive care, also known as Obama care. Two laws significantly affect American health insurance: The Patient Protection and Affordable Care Act. Both laws are passed by President Barack Obama on March 23, 2010, and were amended by the Health Care and Education Reconciliation Act on March 30, 2010.\n\n\n\nACA\n\n\nThe ACA didn’t achieve its intended results as effectively as anticipated. As outlined by the American Action Forum, the ACA led to a direct hike in expenses for drug producers by introducing a new tax tied to the revenue from a company’s branded drug sales. While the overall prescription drug prices saw a reduction, the prices of branded prescription drugs experienced a rise. Between 2011 and 2015, this specific tax cost the pharmaceutical sector $14.1 billion. Additionally, the ACA extended Medicaid coverage to approximately 13 million Americans, mandated health insurance, and introduced new taxes on higher-income households to finance healthcare expenses, subsequently raising yearly premiums and out-of-pocket costs for numerous households."
+  },
+  {
+    "objectID": "References.html",
+    "href": "References.html",
+    "title": "References",
+    "section": "",
+    "text": "https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/"
+  },
+  {
+    "objectID": "Introduction.html#price-changes",
+    "href": "Introduction.html#price-changes",
+    "title": "Introduction",
+    "section": "Price Changes",
+    "text": "Price Changes\nMedical expenses, when paid directly by patients, place a heavy burden on families with moderate to low incomes. Many individuals in the U.S. avoid medical care unless it’s absolutely necessary due to these costs. These expenses aren’t limited to medications; they encompass deductibles, co-pays, and any fees not covered by insurance. Often, co-pays can amount to $30-$50. Furthermore, medicines for rare diseases or unique health conditions have witnessed consistent price hikes annually. This results in reduced medication intake, putting many at risk of avoidable health complications or even death.\nElevated prices for prescription drugs pose a financial strain for both patients and the health care system. The Office of the Assistant Secretary for Planning and Evaluation (ASPE) carried out a study to understand the trend in drug prices over time. In 2022, a noticeable spike in the cost of numerous drugs was observed, with an average increase of about $150 (10%) in January and $250 (7.8%) in July. Some medications experienced a staggering rise in prices, exceeding $20,000 or an increase of over 500%. Moreover, from July 2021 to July 2022, 1,216 products had price surges beyond the 8.5% inflation rate, averaging a hike of 31.6%. Data indicates that the ACA might not have a direct impact on the broader economy, which is why there’s an interest in examining its effects on the pharmaceutical sector and forecasting future prices."
+  },
+  {
+    "objectID": "Introduction.html#pharmaceutical-companies",
+    "href": "Introduction.html#pharmaceutical-companies",
+    "title": "Introduction",
+    "section": "Pharmaceutical Companies",
+    "text": "Pharmaceutical Companies\nAs the US populace grapples with escalating costs of prescription medications, including essential drugs, major pharma corporations such as Pfizer and Johnson & Johnson, recognized for their role in supplying Covid-19 vaccines, continue to witness soaring yearly profits. The Center of American Progress (CAP) reports that these companies have hiked prices on their most-used drugs by a range of 40 to 71 percent between 2011 and 2015.\nIn this project, I will employ techniques like data collection, data preprocessing, clustering, feature reduction, decision tree methods encompassing both classification and regression, and association rule mining (ARM) in Python to delve into the transformations within the pharmaceutical sector and shifts in Medicaid health coverage post ACA implementation.\nTo explore the effect and impact by ACA across the nation, the following questions will be answered in this research. Each question will be addressed and answered with the backing of data throughout the project and in the conclusion with examples."
+  },
+  {
+    "objectID": "References.html#article-references",
+    "href": "References.html#article-references",
+    "title": "References",
+    "section": "",
+    "text": "https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/"
+  },
+  {
+    "objectID": "References.html#data-references",
+    "href": "References.html#data-references",
+    "title": "References",
+    "section": "Data References:",
+    "text": "Data References:"
+  },
+  {
+    "objectID": "Code.html",
+    "href": "Code.html",
+    "title": "Code",
+    "section": "",
+    "text": "Click here to connect to GitHub classroom repo for codes"
+  }
+]

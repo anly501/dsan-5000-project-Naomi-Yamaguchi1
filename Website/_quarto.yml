@@ -1,0 +1,57 @@
+project:
+  type: website
+
+website:
+  title: "DSAN 5000 - Naomi Yamaguchi"
+  sidebar:
+    search: true
+    style: "docked"
+    contents:
+      - href: About_Me.ipynb
+        text: About Me
+      - href: Introduction.ipynb
+        text: Introduction  
+      - href: Code.ipynb
+        text: Code
+      - href: Data.ipynb
+        text: Data
+      - href: Data_Gathering.ipynb
+        text: Data Gathering
+      - href: Data_Cleaning.ipynb
+        text: Data Cleaning
+      - href: Data_Exploration.ipynb
+        text: Data Exploration
+      - href: Clustering.ipynb        
+        text: Clustering
+      - href: Dimensionality_Reduction.ipynb
+        text: Dimensionality Reduction
+      - href: Decision_Tree.ipynb        
+        text: Decision Trees
+      - href: ARM.ipynb
+        text: ARM
+      - href: Conclusions.ipynb
+        text: Colclusions
+      - href: References.ipynb
+        text: References
+    
+    tools:
+     - icon : linkedin
+       href: http://www.linkedin.com/in/naomi-yamaguchi/
+
+      
+format:
+  html:
+    embed-resources: true
+    theme: 
+     - yeti
+     - custom.scss
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    code-fold: true
+    code-copy: true
+    code-tools: true
+    code-overflow: wrap
+
+editor: visual
