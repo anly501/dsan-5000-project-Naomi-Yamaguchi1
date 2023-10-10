@@ -88,6 +88,83 @@
     "href": "Code.html",
     "title": "Code",
     "section": "",
-    "text": "Click here to connect to GitHub classroom repo for codes"
+    "text": "Click here to connect to GitHub classroom repo for codes."
+  },
+  {
+    "objectID": "Data.html",
+    "href": "Data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Click here to connect to GitHub classroom repo for row and cleaned data."
+  },
+  {
+    "objectID": "Data_Gathering.html",
+    "href": "Data_Gathering.html",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "A number of different sources of data were gathered worldwide initially for this research. These include data from the Centers for Medicare & Medicaid(CMS), Centers for Disease Control and Precention(CDC), and Yahoo Finance for stocks prices. Kaggle data is also extract for comparison between ACA and prescription drug costs.\n\n\nThe Centers for Medicare & Medicaid Services (CMS) operates under the U.S. Department of Health and Human Services and is responsible for managing key national healthcare initiatives. This includes the Medicare program, which offers health insurance to the elderly and certain disabled persons, and Medicaid, a joint state-federal initiative catering to specific low-income groups. Additionally, CMS supervises the Children’s Health Insurance Program (CHIP) and has significant involvement in the health insurance platforms established by the Affordable Care Act. Furthermore, it ensures adherence to quality benchmarks in facilities offering long-term care and other medical services.\nThe information on prescription drug expenses(out-of-pockets) was sourced from the National Health Expenditure Accounts maintained by the Centers for Medicare & Medicaid Services, which monitor diverse health expenditures in the U.S.\n\n\n\nClick logo to access the csv!\n\n\n\n\n\nThe Centers for Disease Control and Precention (CDC) operates as a key public health institution under the U.S. Department of Health and Human Services. Tasked with safeguarding public health, the CDC works diligently to manage and prevent illnesses, injuries, and impairments. It undertakes health studies, offers valuable health insights to inform decisions, and champions overall health and wellness. Additionally, it is pivotal in addressing health crises, such as disease outbreaks, and provides a broad spectrum of health recommendations.\nThe U.S. flu statistics 2019-2023 information comes from the CDC’s Regular Flu Monitoring Report that logs weekly figures for flu, pneumonia, and COVID-19 fatalities in the U.S. For this study, I concentrated on the weekly flu details, details of which will be elaborated on in subsequent sections.\n\n\n\nClick logo to access the csv!\n\n\n\n\n\nYahoo Finance is an online resource delivering a broad range of financial tools, updates, and information to its users and investors. It supplies up-to-the-minute stock values, fiscal updates, market reviews, and a collection of tools for investment. Managed by Yahoo!, this platform is a central hub for both casual investors and finance experts seeking market data, analytical tools, and insights on investments.\nThe information of ETF for Major U.S. Pharma Firms’ Stock was sourced from Yahoo Finance, detailing the stock value of the iShares U.S. Pharmaceuticals ETF, commonly known as IHE. This ETF mirrors the market behavior of the prominent U.S. drug manufacturing entities.\n\n\n\nClick logo to access the csv!\n\n\n\n\n\nKaggle, under Google’s umbrella, serves as a hub for data science aficionados and those passionate about machine learning. It grants access to diverse datasets for in-depth examination and insights.\nKeep in mind that Kaggle may not be the ideal platform for in-depth research project analyses. We utilize its data merely for comparison purposes and refrain from conducting extended evaluations with the dataset. We’ve sourced a dataset from Kaggle that details health insurance rates by state for the years 2010-2013 under the ACA.\n\n\n\nClick logo to access the csv!"
+  },
+  {
+    "objectID": "Data_Gathering.html#centers-for-medicare-medicaid-servicescms",
+    "href": "Data_Gathering.html#centers-for-medicare-medicaid-servicescms",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "The Centers for Medicare & Medicaid Services (CMS) operates under the U.S. Department of Health and Human Services and is responsible for managing key national healthcare initiatives. This includes the Medicare program, which offers health insurance to the elderly and certain disabled persons, and Medicaid, a joint state-federal initiative catering to specific low-income groups. Additionally, CMS supervises the Children’s Health Insurance Program (CHIP) and has significant involvement in the health insurance platforms established by the Affordable Care Act. Furthermore, it ensures adherence to quality benchmarks in facilities offering long-term care and other medical services.\nThe information on prescription drug expenses(out-of-pockets) was sourced from the National Health Expenditure Accounts maintained by the Centers for Medicare & Medicaid Services, which monitor diverse health expenditures in the U.S.\n\n\n\nClick logo to access the csv!"
+  },
+  {
+    "objectID": "Data_Gathering.html#centers-for-disease-control-and-precention-cdc",
+    "href": "Data_Gathering.html#centers-for-disease-control-and-precention-cdc",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "The Centers for Disease Control and Precention (CDC) operates as a key public health institution under the U.S. Department of Health and Human Services. Tasked with safeguarding public health, the CDC works diligently to manage and prevent illnesses, injuries, and impairments. It undertakes health studies, offers valuable health insights to inform decisions, and champions overall health and wellness. Additionally, it is pivotal in addressing health crises, such as disease outbreaks, and provides a broad spectrum of health recommendations.\nThe U.S. flu statistics 2019-2023 information comes from the CDC’s Regular Flu Monitoring Report that logs weekly figures for flu, pneumonia, and COVID-19 fatalities in the U.S. For this study, I concentrated on the weekly flu details, details of which will be elaborated on in subsequent sections.\n\n\n\nClick logo to access the csv!"
+  },
+  {
+    "objectID": "Data_Gathering.html#yahoo-finance---etf-stock",
+    "href": "Data_Gathering.html#yahoo-finance---etf-stock",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "Yahoo Finance is an online resource delivering a broad range of financial tools, updates, and information to its users and investors. It supplies up-to-the-minute stock values, fiscal updates, market reviews, and a collection of tools for investment. Managed by Yahoo!, this platform is a central hub for both casual investors and finance experts seeking market data, analytical tools, and insights on investments.\nThe information of ETF for Major U.S. Pharma Firms’ Stock was sourced from Yahoo Finance, detailing the stock value of the iShares U.S. Pharmaceuticals ETF, commonly known as IHE. This ETF mirrors the market behavior of the prominent U.S. drug manufacturing entities.\n\n\n\nClick logo to access the csv!"
+  },
+  {
+    "objectID": "Data_Gathering.html#kaggle---aca-by-states",
+    "href": "Data_Gathering.html#kaggle---aca-by-states",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "Kaggle, under Google’s umbrella, serves as a hub for data science aficionados and those passionate about machine learning. It grants access to diverse datasets for in-depth examination and insights.\nKeep in mind that Kaggle may not be the ideal platform for in-depth research project analyses. We utilize its data merely for comparison purposes and refrain from conducting extended evaluations with the dataset. We’ve sourced a dataset from Kaggle that details health insurance rates by state for the years 2010-2013 under the ACA.\n\n\n\nClick logo to access the csv!"
+  },
+  {
+    "objectID": "Data_Cleaning.html",
+    "href": "Data_Cleaning.html",
+    "title": "Data Cleaning",
+    "section": "",
+    "text": "The data set sourced from CMS provides historical records of National Health Expenditures categorized by service type and funding source from 1960 to 2031. It encompasses details on national health spending, health consumption expenditures, personal health care, and other related health expenditure aspects. Our primary interest lies in the prescription drug expenditure data found between rows 82 and 89. Additionally, we’ll retain row 3 for the calendar years.\n\n\nCode\nimport pandas as pd\ncms_df = pd.read_csv(\"./row_data/NHE60-31.csv\")\n\nrow_to_keep = [1] + list(range(82,88))\n\ncms_filter = cms_df.iloc[row_to_keep]\n\ncms_filter.to_csv(\"./cleaned_data/cleaned_cms.csv\", index=False)\n\n\n\n\nCode\ncleaned_cms_df = pd.read_csv(\"./cleaned_data/cleaned_cms.csv\", skiprows=1)\ncleaned_cms_df.head()\n\n\n\n\n\n\n\n\n\nType of Service\nSource of Funds\n1960\n1961\n1962\n1963\n1964\n1965\n1966\n1967\n...\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n2030\n2031\n\n\n\n\n0\nPrescription Drug Expenditures\nHealth Insurance\n37\n40\n44\n44\n80\n125\n277\n431\n...\n341565\n354231\n372163\n394771\n417446\n438986\n461133\n485676\n510090\n535423\n\n\n1\nPrescription Drug Expenditures\nPrivate Health Insurance\n33\n36\n40\n40\n76\n122\n171\n223\n...\n156369\n163237\n165469\n167360\n172249\n181615\n190783\n199554\n210305\n222727\n\n\n2\nPrescription Drug Expenditures\nMedicare\n0\n0\n0\n0\n0\n0\n0\n0\n...\n127310\n130035\n146107\n164274\n178704\n187425\n196918\n208832\n218364\n226920\n\n\n3\nPrescription Drug Expenditures\nMedicaid (Title XIX)\n0\n0\n0\n0\n0\n0\n103\n205\n...\n44669\n47258\n46500\n48716\n51738\n54846\n57972\n61458\n65201\n69153\n\n\n4\nPrescription Drug Expenditures\nOther Health Insurance\n4\n4\n4\n4\n4\n3\n3\n3\n...\n13218\n13701\n14087\n14421\n14755\n15101\n15460\n15833\n16220\n16622\n\n\n\n\n5 rows × 74 columns"
+  },
+  {
+    "objectID": "Data_Cleaning.html#centers-for-medicare-medicaid-servicescms",
+    "href": "Data_Cleaning.html#centers-for-medicare-medicaid-servicescms",
+    "title": "Data Cleaning",
+    "section": "",
+    "text": "The data set sourced from CMS provides historical records of National Health Expenditures categorized by service type and funding source from 1960 to 2031. It encompasses details on national health spending, health consumption expenditures, personal health care, and other related health expenditure aspects. Our primary interest lies in the prescription drug expenditure data found between rows 82 and 89. Additionally, we’ll retain row 3 for the calendar years.\n\n\nCode\nimport pandas as pd\ncms_df = pd.read_csv(\"./row_data/NHE60-31.csv\")\n\nrow_to_keep = [1] + list(range(82,88))\n\ncms_filter = cms_df.iloc[row_to_keep]\n\ncms_filter.to_csv(\"./cleaned_data/cleaned_cms.csv\", index=False)\n\n\n\n\nCode\ncleaned_cms_df = pd.read_csv(\"./cleaned_data/cleaned_cms.csv\", skiprows=1)\ncleaned_cms_df.head()\n\n\n\n\n\n\n\n\n\nType of Service\nSource of Funds\n1960\n1961\n1962\n1963\n1964\n1965\n1966\n1967\n...\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n2030\n2031\n\n\n\n\n0\nPrescription Drug Expenditures\nHealth Insurance\n37\n40\n44\n44\n80\n125\n277\n431\n...\n341565\n354231\n372163\n394771\n417446\n438986\n461133\n485676\n510090\n535423\n\n\n1\nPrescription Drug Expenditures\nPrivate Health Insurance\n33\n36\n40\n40\n76\n122\n171\n223\n...\n156369\n163237\n165469\n167360\n172249\n181615\n190783\n199554\n210305\n222727\n\n\n2\nPrescription Drug Expenditures\nMedicare\n0\n0\n0\n0\n0\n0\n0\n0\n...\n127310\n130035\n146107\n164274\n178704\n187425\n196918\n208832\n218364\n226920\n\n\n3\nPrescription Drug Expenditures\nMedicaid (Title XIX)\n0\n0\n0\n0\n0\n0\n103\n205\n...\n44669\n47258\n46500\n48716\n51738\n54846\n57972\n61458\n65201\n69153\n\n\n4\nPrescription Drug Expenditures\nOther Health Insurance\n4\n4\n4\n4\n4\n3\n3\n3\n...\n13218\n13701\n14087\n14421\n14755\n15101\n15460\n15833\n16220\n16622\n\n\n\n\n5 rows × 74 columns"
+  },
+  {
+    "objectID": "Data_Cleaning.html#centers-for-disease-control-and-precention-cdc",
+    "href": "Data_Cleaning.html#centers-for-disease-control-and-precention-cdc",
+    "title": "Data Cleaning",
+    "section": "Centers for Disease Control and Precention (CDC)",
+    "text": "Centers for Disease Control and Precention (CDC)\nThe CDC’s dataset provides specifics on Influenza Hospitalization Rates (per 100,000 population) from the FluSurv-NET Network, as of October 9, 2023. The dataset encompasses details such as influenza type, calendar years and weeks, gender, race, influenza rates, and additional related data. We aim to choose columns that highlight calendar data, cumulative rates, and weekly rates. For data cleansing, we intend to omit columns 1, 2, 6, 7, and 8.\n\n\nCode\ncdc_df = pd.read_csv(\"./row_data/FluSurveillance_Custom_Download_Data 12.51.34 AM.csv\", skiprows=2)\n\ncdc_df.drop(cdc_df.columns[[0,1,5,6,7]], axis=1, inplace=True)\n\ncdc_df.to_csv(\"./cleaned_data/cleaned_cdc.csv\", index=False)\ncdc_df.head()\n\n\n\n\n\n\n\n\n\nYEAR\nMMWR-YEAR\nMMWR-WEEK\nCUMULATIVE RATE\nWEEKLY RATE\n\n\n\n\n0\n2019-20\n2019.0\n40.0\n0.1\n0.1\n\n\n1\n2019-20\n2019.0\n40.0\n0.1\n0.1\n\n\n2\n2019-20\n2019.0\n40.0\n0.1\n0.1\n\n\n3\n2019-20\n2019.0\n40.0\n0.2\n0.2\n\n\n4\n2019-20\n2019.0\n40.0\n0.0\n0.0"
+  },
+  {
+    "objectID": "Data_Cleaning.html#yahoo-finance---etf-stock",
+    "href": "Data_Cleaning.html#yahoo-finance---etf-stock",
+    "title": "Data Cleaning",
+    "section": "Yahoo Finance - ETF Stock",
+    "text": "Yahoo Finance - ETF Stock\nThe dataset from Yahoo Finance provides detailed information on IHE stock market data from October 2019 to October 2023. It includes data on opening, closing, highest, lowest, adjusted closing prices, and volume of IHE stocks. There is no need for data cleaning, as all columns and rows are meticulously curated by Yahoo Finance. The provided information is readily available for visualization and further analysis.\n\n\nCode\nIHE_df = pd.read_csv(\"./row_data/IHE.csv\")\n\nIHE_df.to_csv(\"./cleaned_data/IHE.csv\", index=False)\n\nIHE_df.head()\n\n\n\n\n\n\n\n\n\nDate\nOpen\nHigh\nLow\nClose\nAdj Close\nVolume\n\n\n\n\n0\n2019-10-09\n137.729996\n138.389999\n137.729996\n138.059998\n129.229935\n7600\n\n\n1\n2019-10-10\n137.729996\n138.539993\n137.729996\n138.059998\n129.229935\n6300\n\n\n2\n2019-10-11\n139.490005\n141.050003\n139.490005\n140.119995\n131.158127\n19200\n\n\n3\n2019-10-14\n139.720001\n140.369995\n139.720001\n139.789993\n130.849258\n4500\n\n\n4\n2019-10-15\n141.110001\n142.889999\n141.110001\n142.429993\n133.320389\n193500"
+  },
+  {
+    "objectID": "Data_Cleaning.html#kaggle---aca-by-states",
+    "href": "Data_Cleaning.html#kaggle---aca-by-states",
+    "title": "Data Cleaning",
+    "section": "Kaggle - ACA by States",
+    "text": "Kaggle - ACA by States\nThe Kaggle dataset provides state-by-state information on the ACA, including the uninsured rate, changes in uninsured rates, shifts in health insurance coverage, market health insurance details, and other insights into ACA-induced changes in the health insurance sector. Within this dataset, there are certain missing entries and columns that are not necessary for our visualization, which we’ll be discarding.\n\n\nCode\naca_df = pd.read_csv(\"./row_data/states.csv\")\n\naca_df.drop(aca_df.columns[[5,6,7,8,9]], axis=1, inplace=True)\n\naca_df.to_csv(\"./cleaned_data/cleaned_states.csv\", index=False)\n\naca_df.head()\n\n\n\n\n\n\n\n\n\nState\nUninsured Rate (2010)\nUninsured Rate (2015)\nUninsured Rate Change (2010-2015)\nHealth Insurance Coverage Change (2010-2015)\nMedicaid Enrollment (2013)\nMedicaid Enrollment (2016)\nMedicaid Enrollment Change (2013-2016)\nMedicare Enrollment (2016)\n\n\n\n\n0\nAlabama\n0.146\n0.101\n-0.045\n215000\n799176.0\n910775\n111599.0\n989855\n\n\n1\nAlaska\n0.199\n0.149\n-0.050\n36000\n122334.0\n166625\n44291.0\n88966\n\n\n2\nArizona\n0.169\n0.108\n-0.061\n410000\n1201770.0\n1716198\n514428.0\n1175624\n\n\n3\nArkansas\n0.175\n0.095\n-0.080\n234000\n556851.0\n920194\n363343.0\n606146\n\n\n4\nCalifornia\n0.185\n0.086\n-0.099\n3826000\n7755381.0\n11843081\n4087700.0\n5829777"
   }
 ]
