@@ -10,11 +10,14 @@ website:
       - href: About_Me.ipynb
         text: About Me
       - href: Introduction.ipynb
-        text: Introduction  
-      - href: Code.ipynb
+        text: Introduction
+      - href: https://github.com/anly501/dsan-5000-project-Naomi-Yamaguchi1/tree/main/Website
         text: Code
-      - href: Data.ipynb
-        text: Data
+        external: true
+      - text: Data
+        contents:
+          - href: https://github.com/anly501/dsan-5000-project-Naomi-Yamaguchi1/tree/main/Website/row_data
+            text: Small Data
       - href: Data_Gathering.ipynb
         text: Data Gathering
       - href: Data_Cleaning.ipynb
