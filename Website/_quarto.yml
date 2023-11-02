@@ -18,12 +18,21 @@ website:
         contents:
           - href: https://github.com/anly501/dsan-5000-project-Naomi-Yamaguchi1/tree/main/Website/row_data
             text: Small Data
+          - href: https://drive.google.com/drive/folders/1zCRtHorrXO4m5Kypa0_-Hivv3EFfpLsY?usp=drive_link
+            text: Bigger Data
       - href: Data_Gathering.ipynb
         text: Data Gathering
       - href: Data_Cleaning.ipynb
         text: Data Cleaning
       - href: Data_Exploration.ipynb
         text: Data Exploration
+      - href: NB.ipynb
+        text: Naïve Bayes
+        contents:
+          - href: recordNB.ipynb
+            text: Feature Selection for Record Data
+          - href: textNB.ipynb
+            text: Feature Selection for Text Data
       - href: Clustering.ipynb        
         text: Clustering
       - href: Dimensionality_Reduction.ipynb
