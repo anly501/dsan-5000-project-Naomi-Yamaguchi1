@@ -1,0 +1,69 @@
+project:
+  type: website
+
+website:
+  title: "DSAN 5000 - Naomi Yamaguchi"
+  sidebar:
+    search: true
+    style: "docked"
+    contents:
+      - href: About_Me.ipynb
+        text: About Me
+      - href: Introduction.ipynb
+        text: Introduction
+      - href: https://github.com/anly501/dsan-5000-project-Naomi-Yamaguchi1/tree/main/Website
+        text: Code
+        external: true
+      - text: Data
+        contents:
+          - href: https://github.com/anly501/dsan-5000-project-Naomi-Yamaguchi1/tree/main/Website/row_data
+            text: Small Data
+          - href: https://drive.google.com/drive/folders/1zCRtHorrXO4m5Kypa0_-Hivv3EFfpLsY?usp=drive_link
+            text: Bigger Data
+      - href: Data_Gathering.ipynb
+        text: Data Gathering
+      - href: Data_Cleaning.ipynb
+        text: Data Cleaning
+      - href: Data_Exploration.ipynb
+        text: Data Exploration
+      - href: NB.ipynb
+        text: Naïve Bayes
+        contents:
+          - href: recordNB.ipynb
+            text: Feature Selection for Record Data
+          - href: textNB.ipynb
+            text: Feature Selection for Text Data
+      - href: Clustering.ipynb        
+        text: Clustering
+      - href: Dimensionality_Reduction.ipynb
+        text: Dimensionality Reduction
+      - href: Decision_Tree.ipynb        
+        text: Decision Trees
+      - href: ARM.ipynb
+        text: ARM
+      - href: Conclusions.ipynb
+        text: Colclusions
+      - href: References.ipynb
+        text: References
+    
+    tools:
+     - icon : linkedin
+       href: http://www.linkedin.com/in/naomi-yamaguchi/
+
+      
+format:
+  html:
+    embed-resources: true
+    theme: 
+     - yeti
+     - custom.scss
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    code-fold: true
+    code-copy: true
+    code-tools: true
+    code-overflow: wrap
+
+editor: visual
