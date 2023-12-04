@@ -42,7 +42,7 @@ website:
       - href: ARM.ipynb
         text: ARM
       - href: Conclusions.ipynb
-        text: Colclusions
+        text: Conclusions
       - href: References.ipynb
         text: References
     
